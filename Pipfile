@@ -14,6 +14,7 @@ seaborn = "==0.12.2"
 scipy = "==1.10.1"
 japanize-matplotlib = "*"
 torch = "*"
+graphviz = "*"
 
 [dev-packages]
 
